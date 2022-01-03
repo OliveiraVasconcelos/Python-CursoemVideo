@@ -3,4 +3,4 @@
          -Repositório de exercícios-
  - Curso ministrado pelo Professor Gustavo Guanabara 
  - Do básico ao intermediário, focando nos conceitos iniciais da linguagem
- - *Primeiro tecnologia que tive contato :)*
+ - *Primeira tecnologia que tive contato :)*
